@@ -39,6 +39,12 @@
     <access_arguments>access CiviCRM</access_arguments>
   </item>
   <item>
+    <path>civicrm/eck/entity/tag</path>
+    <page_callback>CRM_Eck_Page_Entity_Tag</page_callback>
+    <title>Entity Tags</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
     <path>civicrm/admin/eck/entity</path>
     <page_callback>CRM_Eck_Form_Entity</page_callback>
     <title>Entity</title>
